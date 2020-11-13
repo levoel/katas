@@ -1,6 +1,6 @@
 # katas
 
-![My badge](https://www.codewars.com/users/glll4d/badges/large)
+![My badge](https://www.codewars.com/users/glll4d/badges/large){:height="200%" width="200%"}
 
 Use my referral: www.codewars.com/r/x-0v8g
 
