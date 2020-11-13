@@ -4,13 +4,13 @@ Given a demographics table in the following format:
 
 ** demographics table schema **
 
-id
+- id
 
-name
+- name
 
-birthday
+- birthday
 
-race
+- race
 
 
 you need to return a table that shows a count of each race represented, ordered by the count in descending order as:
@@ -18,8 +18,8 @@ you need to return a table that shows a count of each race represented, ordered 
 
 ** output table schema **
 
-race
+- race
 
-count
+- count
 
 https://www.codewars.com/kata/594633020a561e329a0000a2
