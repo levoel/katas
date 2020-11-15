@@ -19,4 +19,4 @@ and has the following requirements:
 
 # Database Schema
 
-[Database Schema](database.png)
+![Database Schema](database.png)
