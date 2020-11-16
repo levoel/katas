@@ -15,3 +15,5 @@ List of completed katas:
 - [**7 kyu Easy SQL: Counting and Grouping**](https://www.codewars.com/kata/594633020a561e329a0000a2)
 
 - [**7 kyu GROCERY STORE: Inventory**](https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1)
+
+- [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
