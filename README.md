@@ -4,7 +4,7 @@
 
 Use my referral: www.codewars.com/r/x-0v8g
 
-From today i'm going to upload at least 7 kata solutions per week.
+From today i'm going to upload at least 7 katas solutions per week.
 
 List of completed katas:
 
@@ -17,3 +17,5 @@ List of completed katas:
 - [**7 kyu GROCERY STORE: Inventory**](https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1)
 
 - [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
+
+- [**8 kyu Multiply**](https://www.codewars.com/kata/50654ddff44f800200000004)
