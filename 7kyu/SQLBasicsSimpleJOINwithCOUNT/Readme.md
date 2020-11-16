@@ -1,4 +1,4 @@
-For this challenge you need to create a simple $\textrm{SELECT}$ statement that will return all columns from the <code>people</code> table, and join to the <code>toys</code> table so that you can return the COUNT of the toys
+For this challenge you need to create a simple SELECT statement that will return all columns from the <code>people</code> table, and join to the <code>toys</code> table so that you can return the COUNT of the toys
 
 **people table schema**
 
