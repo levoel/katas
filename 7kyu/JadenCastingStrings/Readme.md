@@ -18,3 +18,5 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 ```
 
 [Link to Jaden's former Twitter account @officialjaden via archive.org](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
+
+https://www.codewars.com/kata/5390bac347d09b7da40006f6/python
