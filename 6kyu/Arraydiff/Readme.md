@@ -9,3 +9,5 @@ It should remove all values from list <code>a</code>, which are present in list 
 If a value is present in b, all of its occurrences must be removed from the other:
 
 <code>array_diff([1,2,2,2,3],[2]) == [1,3]</code>
+
+https://www.codewars.com/kata/523f5d21c841566fde000009/python
