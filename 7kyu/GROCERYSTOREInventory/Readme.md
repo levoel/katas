@@ -27,3 +27,5 @@ Order the results by product id
 - name
 
 - stock
+
+https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1
