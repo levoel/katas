@@ -20,3 +20,5 @@ and has the following requirements:
 # Database Schema
 
 ![Database Schema](database.png)
+
+https://www.codewars.com/kata/580d08b5c049aef8f900007c
