@@ -14,6 +14,8 @@ List of completed katas:
 
 - [**6 kyu SQL Basics: Simple FULL TEXT SEARCH**](https://www.codewars.com/kata/581676828906324b8b00059e)
 
+- [**7 kyu Jaden Casing Strings**](https://www.codewars.com/kata/5390bac347d09b7da40006f6/python)
+
 - [**7 kyu Easy SQL: Counting and Grouping**](https://www.codewars.com/kata/594633020a561e329a0000a2)
 
 - [**7 kyu GROCERY STORE: Inventory**](https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1)
