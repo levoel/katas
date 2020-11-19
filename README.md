@@ -8,6 +8,8 @@ From today i'm going to upload at least 7 katas solutions per week.
 
 List of completed katas:
 
+- [**6 kyu Bit Counting**](www.codewars.com/kata/526571aae218b8ee490006f4)
+
 - [**6 kyu Playing with digits**](www.codewars.com/kata/5552101f47fc5178b1000050)
 
 - [**6 kyu Dubstep**](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
