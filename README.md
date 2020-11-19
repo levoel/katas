@@ -1,12 +1,12 @@
-# katas
+# <img src='img/cw.png' width="50"/> katas
 
 ![My badge](https://www.codewars.com/users/%E7%8D%85%E5%AD%90%E3%82%AA/badges/large)
 
-Use my referral: www.codewars.com/r/x-0v8g
+Join with my referral: www.codewars.com/r/x-0v8g
 
-From today i'm going to upload at least 7 katas solutions per week.
+From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at least 7 katas solutions per week.
 
-List of completed katas:
+## List of completed katas:
 
 - [**6 kyu Bit Counting**](www.codewars.com/kata/526571aae218b8ee490006f4)
 
