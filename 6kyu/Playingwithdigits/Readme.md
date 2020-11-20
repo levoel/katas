@@ -1,10 +1,10 @@
 Some numbers have funny properties. For example:
 
-$89 \rightarrow 8^1 + 9^2 = 89 \times 1$
-
-$695 \rightarrow 6^2 + 9^3 + 5^4 = 1390 = 695 \times 2$
-
-$46288 \rightarrow 4^3 + 6^4+ 2^5 + 8^6 + 8^7 = 2360688 = 46288 \times 51$
+```
+89    --> 8^1 + 9^2 = 89 * 1
+695   --> 6^2 + 9^3 + 5^4 = 1390 = 695 * 2
+46288 --> 4^3 + 6^4+ 2^5 + 8^6 + 8^7 = 2360688 = 46288 * 51
+```
 
 **Given** a positive integer <code>n</code> written as 
 abcd... (a, b, c, d... being digits) and a positive integer <code>p</code>
