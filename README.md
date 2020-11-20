@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**6 kyu Is a number prime?**](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+
 - [**6 kyu Counting Duplicates**](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
 - [**6 kyu Bit Counting**](www.codewars.com/kata/526571aae218b8ee490006f4)
