@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**5 kyu Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
+
 - [**6 kyu Which are in?**](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 
 - [**6 kyu Is a number prime?**](https://www.codewars.com/kata/5262119038c0985a5b00029f)
