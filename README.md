@@ -30,6 +30,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**6 kyu SQL Basics: Simple FULL TEXT SEARCH**](https://www.codewars.com/kata/581676828906324b8b00059e)
 
+- [**7 kyu Simple Fun #74: Growing Plant**](www.codewars.com/kata/58941fec8afa3618c9000184)
+
 - [**7 kyu Sum of two lowest positive integers**](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 
 - [**7 kyu Jaden Casing Strings**](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
