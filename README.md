@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**5 kyu SQL Statistics: MIN, MEDIAN, MAX**](https://www.codewars.com/kata/58167fa1f544130dcf000317)
+
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 - [**6 kyu SQL Basics: Create a FUNCTION (DATES)**](www.codewars.com/kata/5811010104adbba24b0002fe)
