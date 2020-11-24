@@ -10,6 +10,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
+- [**6 kyu SQL Basics: Create a FUNCTION (DATES)**](www.codewars.com/kata/5811010104adbba24b0002fe)
+
 - [**6 kyu Vasya - Clerk**](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
 
 - [**6 kyu Which are in?**](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
