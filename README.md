@@ -14,6 +14,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
+- [**6 kyu SQL Bug Fixing: Fix the QUERY - Totaling**](www.codewars.com/kata/582cba7d3be8ce3a8300007c)
+
 - [**6 kyu Conditional Count**](www.codewars.com/kata/5816a3ecf54413a113000074)
 
 - [**6 kyu SQL Basics: Create a FUNCTION (DATES)**](www.codewars.com/kata/5811010104adbba24b0002fe)
