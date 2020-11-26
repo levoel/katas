@@ -1,0 +1,16 @@
+SELECT s.transaction_date::date   AS day,
+       d.name                     AS department,
+       COUNT(s.id)                AS sale_count
+FROM
+  department
+INNER JOIN
+  sale
+ON
+  department.id = sale.department_id
+GROUP BY
+  day,
+  department
+ORDER BY
+  day,
+  department
+;
