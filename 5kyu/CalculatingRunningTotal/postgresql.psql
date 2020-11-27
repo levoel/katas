@@ -1,0 +1,14 @@
+SELECT
+  created_at::DATE            AS date,
+  COUNT(*)                    AS count,
+  SUM(COUNT(*)::INT) OVER (
+    ORDER BY
+      created_at::DATE
+    )                         AS total
+FROM
+  posts
+GROUP BY
+  created_at::DATE
+ORDER BY
+  created_at::DATE
+;
