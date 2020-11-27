@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**5 kyu Calculating Running Total**](https://www.codewars.com/kata/589cf45835f99b2909000115)
+
 - [**5 kyu Memoized Fibonacci**](https://www.codewars.com/kata/529adbf7533b761c560004e5)
 
 - [**5 kyu SQL Statistics: MIN, MEDIAN, MAX**](https://www.codewars.com/kata/58167fa1f544130dcf000317)
