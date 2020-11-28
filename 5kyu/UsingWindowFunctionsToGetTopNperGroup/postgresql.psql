@@ -1,0 +1,31 @@
+SELECT
+  categories.id           AS category_id,
+  categories.category     AS category,
+  posts.title             AS title ,
+  posts.views             AS views,
+  posts.post_id           AS post_id
+FROM
+  categories
+LEFT JOIN(
+  SELECT
+    category_id           AS category_id,
+    title                 AS title,
+    views                 AS views,
+    id post_id            AS id post_id,
+    ROW_NUMBER() OVER (
+      PARTITION BY
+        category_id
+      ORDER BY
+        views DESC,
+        id
+      )                   AS row_number
+  FROM
+    posts)
+ON
+  posts.category_id = categories.id AND
+  posts.row_number < 3
+ORDER BY
+  category,
+  views DESC,
+  post_id
+;
