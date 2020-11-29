@@ -1,0 +1,46 @@
+WITH
+  topCast AS (
+    SELECT
+      act1.actor_id   AS act1_id,
+      act2.actor_id   AS act2_id
+    FROM 
+      film_actor act1
+    INNER JOIN
+      film_actor act2
+    ON
+      act2.film_id = act1.film_id AND
+      act2.actor_id > act1.actor_id
+    GROUP BY
+      act1.actor_id, act2.actor_id
+    ORDER BY
+      COUNT(1) DESC
+    LIMIT 1
+  )
+SELECT
+  act1.first_name || ' ' || act1.last_name  AS first_actor,
+  act2.first_name || ' ' || act2.last_name  AS second_actor,
+  title
+FROM
+  topCast
+INNER JOIN
+  actor act1
+ON
+  act1.actor_id = topCast.act1_id
+INNER JOIN
+  actor act2
+ON
+  act2.actor_id = topCast.act2_id
+INNER JOIN
+  film_actor AS fact1
+ON
+  fact1.actor_id = topCast.act1_id
+INNER JOIN
+  film_actor AS fact2
+ON
+  fact2.actor_id = topCast.act2_id AND
+  fact2.film_id = fact1.film_id
+INNER JOIN
+  film
+ON
+  fact1.film_id = film.film_id
+;
