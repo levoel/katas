@@ -1,0 +1,22 @@
+SELECT
+  people.id                     AS id,
+  people.name                   AS name,
+  sales_count.count             AS sale_count,
+  RANK() OVER(
+    ORDER BY
+      sales_count.count DESC
+    )                           AS sale_rank
+FROM
+  people
+JOIN (
+  SELECT
+    people_id   AS people_id,
+    COUNT(*)    AS count
+  FROM
+    sales
+  GROUP BY
+    people_id
+  ) AS sales_count
+ON
+  sales_count.people_id = people.id
+;
