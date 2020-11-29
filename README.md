@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**4 kyu Challenge: Two actors who cast together the most**](www.codewars.com/kata/5818bde9559ff58bd90004a2)
+
 - [**5 kyu Using Window Functions To Get Top N per Group**](https://www.codewars.com/kata/582001237a3a630ce8000a41/solutions/sql)
 
 - [**5 kyu Calculating Running Total**](https://www.codewars.com/kata/589cf45835f99b2909000115)
@@ -17,6 +19,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 - [**5 kyu SQL Statistics: MIN, MEDIAN, MAX**](https://www.codewars.com/kata/58167fa1f544130dcf000317)
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
+
+- [**6 kyu SQL Basics: Simple JOIN and RANK**](www.codewars.com/kata/58094559c47d323ebd000035)
 
 - [**6 kyu SQL Basics: Simple HAVING**](https://www.codewars.com/kata/58164ddf890632ce00000220)
 
