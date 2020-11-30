@@ -20,6 +20,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
+- [**6 kyu Return 1, 2, 3 randomly**](www.codewars.com/kata/593e84f16e836ca9a9000054)
+
 - [**6 kyu SQL Basics: Simple JOIN and RANK**](www.codewars.com/kata/58094559c47d323ebd000035)
 
 - [**6 kyu SQL Basics: Simple HAVING**](https://www.codewars.com/kata/58164ddf890632ce00000220)
