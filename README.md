@@ -54,6 +54,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**6 kyu SQL Basics: Simple FULL TEXT SEARCH**](https://www.codewars.com/kata/581676828906324b8b00059e)
 
+- [**7 kyu Figurate Numbers #2 - Pronic Number**](https://www.codewars.com/kata/55b1e5c4cbe09e46b3000034)
+
 - [**7 kyu Testing 1-2-3**](www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 
 - [**7 kyu SQL Basics: Raise to the Power**](https://www.codewars.com/kata/594a8f653b5b4e8f3d000035)
