@@ -8,7 +8,7 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
-- [**4 kyu Challenge: Two actors who cast together the most**](www.codewars.com/kata/5818bde9559ff58bd90004a2)
+- [**4 kyu Challenge: Two actors who cast together the most**](https://www.codewars.com/kata/5818bde9559ff58bd90004a2)
 
 - [**5 kyu Using Window Functions To Get Top N per Group**](https://www.codewars.com/kata/582001237a3a630ce8000a41/solutions/sql)
 
@@ -20,19 +20,21 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
-- [**6 kyu Return 1, 2, 3 randomly**](www.codewars.com/kata/593e84f16e836ca9a9000054)
+-[**6 kyu Are they the "same"?**](https://www.codewars.com/kata/550498447451fbbd7600041c)
 
-- [**6 kyu SQL Basics: Simple JOIN and RANK**](www.codewars.com/kata/58094559c47d323ebd000035)
+- [**6 kyu Return 1, 2, 3 randomly**](https://www.codewars.com/kata/593e84f16e836ca9a9000054)
+
+- [**6 kyu SQL Basics: Simple JOIN and RANK**](https://www.codewars.com/kata/58094559c47d323ebd000035)
 
 - [**6 kyu SQL Basics: Simple HAVING**](https://www.codewars.com/kata/58164ddf890632ce00000220)
 
 - [**6 kyu SQL Basics: Simple IN**](https://www.codewars.com/kata/58113c03009b4fcc66000d29)
 
-- [**6 kyu SQL Bug Fixing: Fix the QUERY - Totaling**](www.codewars.com/kata/582cba7d3be8ce3a8300007c)
+- [**6 kyu SQL Bug Fixing: Fix the QUERY - Totaling**](https://www.codewars.com/kata/582cba7d3be8ce3a8300007c)
 
-- [**6 kyu Conditional Count**](www.codewars.com/kata/5816a3ecf54413a113000074)
+- [**6 kyu Conditional Count**](https://www.codewars.com/kata/5816a3ecf54413a113000074)
 
-- [**6 kyu SQL Basics: Create a FUNCTION (DATES)**](www.codewars.com/kata/5811010104adbba24b0002fe)
+- [**6 kyu SQL Basics: Create a FUNCTION (DATES)**](https://www.codewars.com/kata/5811010104adbba24b0002fe)
 
 - [**6 kyu Vasya - Clerk**](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
 
@@ -42,9 +44,9 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**6 kyu Counting Duplicates**](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
-- [**6 kyu Bit Counting**](www.codewars.com/kata/526571aae218b8ee490006f4)
+- [**6 kyu Bit Counting**](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 
-- [**6 kyu Playing with digits**](www.codewars.com/kata/5552101f47fc5178b1000050)
+- [**6 kyu Playing with digits**](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 - [**6 kyu Dubstep**](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 
@@ -56,7 +58,7 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**7 kyu Figurate Numbers #2 - Pronic Number**](https://www.codewars.com/kata/55b1e5c4cbe09e46b3000034)
 
-- [**7 kyu Testing 1-2-3**](www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+- [**7 kyu Testing 1-2-3**](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 
 - [**7 kyu SQL Basics: Raise to the Power**](https://www.codewars.com/kata/594a8f653b5b4e8f3d000035)
 
