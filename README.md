@@ -84,7 +84,9 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
-- [**8 kyu Sum of positive**](www.codewars.com/kata/5715eaedb436cf5606000381)
+- [**8 kyu Beginner - Reduce but Grow**](https://www.codewars.com/kata/57f780909f7e8e3183000078)
+
+- [**8 kyu Sum of positive**](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
 - [**8 kyu Will you make it?**](https://www.codewars.com/kata/5861d28f124b35723e00005e)
 
