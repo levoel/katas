@@ -22,6 +22,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**5 kyu Directions Reduction**](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
+- [**6 kyu +1 Array**](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9)
+
 - [**6 kyu Persistent Bugger.**](www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 
 - [**6 kyu Sort the odd**](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
