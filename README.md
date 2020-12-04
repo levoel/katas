@@ -85,3 +85,5 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 - [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
 - [**8 kyu Multiply**](https://www.codewars.com/kata/50654ddff44f800200000004)
+
+- [**8 kyu How good are you really?**](https://www.codewars.com/kata/5601409514fc93442500010b)
