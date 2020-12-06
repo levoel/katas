@@ -10,6 +10,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**4 kyu Challenge: Two actors who cast together the most**](https://www.codewars.com/kata/5818bde9559ff58bd90004a2)
 
+- [**5 kyu int32 to IPv4**](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
+
 - [**5 kyu Product of consecutive Fib numbers**](www.codewars.com/kata/5541f58a944b85ce6d00006a)
 
 - [**5 kyu Using Window Functions To Get Top N per Group**](https://www.codewars.com/kata/582001237a3a630ce8000a41/solutions/sql)
