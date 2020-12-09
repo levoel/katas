@@ -8,6 +8,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 ## List of completed katas:
 
+- [**4 kyu Permutations**](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+
 - [**4 kyu Challenge: Two actors who cast together the most**](https://www.codewars.com/kata/5818bde9559ff58bd90004a2)
 
 - [**5 kyu int32 to IPv4**](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
