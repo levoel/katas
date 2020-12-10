@@ -70,6 +70,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**6 kyu SQL Basics: Simple FULL TEXT SEARCH**](https://www.codewars.com/kata/581676828906324b8b00059e)
 
+- [**7 kyu Isograms**](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+
 - [**7 kyu Reverse words**](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 
 - [**7 kyu Figurate Numbers #2 - Pronic Number**](https://www.codewars.com/kata/55b1e5c4cbe09e46b3000034)
