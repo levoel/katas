@@ -94,6 +94,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
+- [**8 kyu Keep Hydrated!**](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+
 - [**8 kyu Function 1 - hello world**](https://www.codewars.com/kata/523b4ff7adca849afe000035)
 
 - [**8 kyu Even or Odd**](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
