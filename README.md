@@ -94,6 +94,8 @@ From [today](https://en.wikipedia.org/wiki/November_14) i'm going to upload at l
 
 - [**7 kyu SQL Basics: Simple JOIN with COUNT**](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
+- [**8 kyu Returning Strings**](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+
 - [**8 kyu Array plus array**](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 
 - [**8 kyu L1: Set Alarm**](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
